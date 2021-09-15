@@ -1,0 +1,62 @@
+.head{
+    text-align: center;
+    color: rgb(228, 15, 61);
+}
+.head1{
+    margin-top: -20px;
+    text-align: center;
+    color: rgb(228, 15, 61);
+}
+
+.content-para{
+    text-align: center;
+    color: gray;
+    margin-bottom: -20px;
+}
+.image{
+    height: 220px;
+    width: 200px;
+    margin-top: 10px;
+}
+.btn{
+    text-align: center;
+    background-color: rgb(228, 15, 61);
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 24px;
+}
+.toggle{
+    text-align: center;
+    background-color: rgb(228, 15, 61);
+    padding: 20px;
+    width: 30%;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 30px;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.toggle:hover,.btn:hover{
+    background-color: rgb(148, 7, 38);
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.main-body{
+  margin-top: -23px;
+  background-color: black;
+}
+.main-body-change{
+  margin-top: -23px;
+  background-color: white;
+}
+
+.poster-main{
+  width: 70%;
+  margin: 0 auto;
+}
+.poster{
+  margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}
